@@ -15,7 +15,7 @@ mainClassName = 'de/unitrier/st/core/Main'
 
 sonarqube {
     properties {
-        property "sonar.projectKey", "2fbab97206cb61ead289aa6a778da279df56cacf"
+        property "sonar.projectKey", "s4paneum_fst-u1-gradle"
         property "sonar.organization", "s4paneum-github"
         property "sonar.host.url", "https://sonarcloud.io"
     }
